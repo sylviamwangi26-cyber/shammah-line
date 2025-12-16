@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    /* margin-top: 100px; */
+    background-origin: padding-box;
+    background-clip: content-box;
+    background-color: rgb(107, 10, 120);
+    /* margin-bottom: 10px; */
+    /* border-radius: 15px; */
+    /* font-size: 50px; */
+}
+.nav{
+    background-color: rgb(107, 10, 120);
+    text-align: center;
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+    font-size: 50px;
+    padding: 20px;
+    
+}
+h2{
+    font-size: large;
+    font-style: oblique;
+    font-display: 60px;
+    text-align: center;
+    background-color: aliceblue;
+
+
+}
+body{
+    background-image:url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FsY3VsYXRpb258ZW58MHx8MHx8fDA%3D&w=1000&q=80'); 
+    background-size: cover;
+    
+}
+
+
+
+ 
